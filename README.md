@@ -13,7 +13,7 @@ The database includes entities such as:
 # Business Questions Answered
 - How much has been spent per grant?
     ![SQL_screenshots](SQL_screenshots/qry_spendTotals_SQL.png)
-    ![SQL_screenshots](SQL_screenshots/qry_spendTotals_table.png)
+    ![SQL_screenshots](SQL_screenshots/qry_spendTotals_Table.png)
 - What is the remaining balance per award?
     ![SQL_screenshots](SQL_screenshots/qry_budget_vs_actual_SQL.png)
     ![SQL_screenshots](SQL_screenshots/qry_budget_vs_actual_table.png)
